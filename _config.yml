@@ -1,5 +1,3 @@
-title: "Developers Against Scams"
-
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -9,3 +7,5 @@ include:
   - README.md
 
 theme: jekyll-theme-cayman
+
+title: Developers Against Scams
